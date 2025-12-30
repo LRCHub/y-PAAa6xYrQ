@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Pray",
+  "base_artist": "Tommy heavenly6",
+  "createdAt": "2025-12-30T13:52:35.496571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pray To God For Your Mother",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_Pray_To_God_For_Your_Mother_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pray to God for Your Mother (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Pray_to_God_for_Your_Mother_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Devil Pray",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/03_Devil_Pray_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pray For Rain",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_Pray_For_Rain_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pray for Spanish Eyes",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/05_Pray_for_Spanish_Eyes_Madonna.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pray the Soul Away",
+      "artist": "O. Children",
+      "has_synced": true,
+      "path": "select/06_Pray_the_Soul_Away_O._Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LET'S PRAY (feat. Don Toliver & Travis Scott)",
+      "artist": "DJ Khaled feat. Don Toliver & Travis Scott",
+      "has_synced": true,
+      "path": "select/07_LET'S_PRAY_(feat._Don_Toliver_&_Travis_Scott)_DJ_Khaled_feat._Don_Toliver_&_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LET'S PRAY (feat. Travis Scott & Don Toliver)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/08_LET'S_PRAY_(feat._Travis_Scott_&_Don_Toliver)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ain't Too Proud to Pray",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_Ain't_Too_Proud_to_Pray_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mother Pray",
+      "artist": "Ben Harper feat. The Blind Boys Of Alabama",
+      "has_synced": true,
+      "path": "select/10_Mother_Pray_Ben_Harper_feat._The_Blind_Boys_Of_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mother Pray",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/11_Mother_Pray_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pray That Our Love Sees The Dawn",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/12_Pray_That_Our_Love_Sees_The_Dawn_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Down To the River To Pray",
+      "artist": "Órla Fallon feat. The Dublin Gospel Choir",
+      "has_synced": false,
+      "path": "select/13_Down_To_the_River_To_Pray_Órla_Fallon_feat._The_Dublin_Gospel_Choir.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Down To The River To Pray (feat. The Dublin Gospel Choir)",
+      "artist": "Orla Fallon",
+      "has_synced": false,
+      "path": "select/14_Down_To_The_River_To_Pray_(feat._The_Dublin_Gospel_Choir)_Orla_Fallon.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Pray For You (feat. Labrinth & MALICE)",
+      "artist": "Pusha T feat. No Malice, Clipse & Labrinth",
+      "has_synced": true,
+      "path": "select/15_I_Pray_For_You_(feat._Labrinth_&_MALICE)_Pusha_T_feat._No_Malice,_Clipse_&_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Pray for You (feat. Labrinth & Malice)",
+      "artist": "Pusha T",
+      "has_synced": true,
+      "path": "select/16_I_Pray_for_You_(feat._Labrinth_&_Malice)_Pusha_T.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "When I Pray",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/17_When_I_Pray_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Pray",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/18_I_Pray_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Pray 4 Me (feat. Kanye West)",
+      "artist": "SAINt JHN feat. Kanye West",
+      "has_synced": true,
+      "path": "select/19_Pray_4_Me_(feat._Kanye_West)_SAINt_JHN_feat._Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Pray 4 Me (feat. Kanye West)",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/20_Pray_4_Me_(feat._Kanye_West)_SAINt_JHN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pray",
+      "artist": "Tommy heavenly6",
+      "has_synced": false,
+      "path": "select/pl_01_Pray_Tommy_heavenly6.txt"
+    }
+  ]
+}
